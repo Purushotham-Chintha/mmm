@@ -4,3 +4,4 @@ This is my second line. Git is awesome!
 this is my third line
 This is the line that I added from the text editor.
 This is a change made directly on GitHub!
+This is new change made direclty on GitHub!
